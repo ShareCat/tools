@@ -1,6 +1,6 @@
 # RVMDK_compile_batch
 
-### CHINESE：
+### 中文：
 使用脚本编译KDM_Keil工程
 
 1. 新建记事本重命名为Keil_build_XXX.bat，并复制上述批处理代码
