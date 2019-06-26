@@ -1,2 +1,2 @@
 # synergy
-Just some tools
+ - synergy_1.8.4.zip for windows
