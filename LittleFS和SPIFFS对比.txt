@@ -1,0 +1,14 @@
+LittleFS和SPIFFS对比：
+
+      Code (inc. data)   RO Data    RW Data    ZI Data      Debug   Object Name
+     17572        942        457          0          0      60513   lfs.o
+        60          6         64          0          0       1094   lfs_util.o
+
+
+
+
+      1256          0          0          0          0      21030   spiffs_cache.o
+      6700         40          0          0          0      11134   spiffs_check.o
+      3372         14          0          0          0       7574   spiffs_gc.o
+      6480        272          0          0          0      20261   spiffs_hydrogen.o
+     13964         76          0          0          0      30706   spiffs_nucleus.o
