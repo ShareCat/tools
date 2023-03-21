@@ -1,0 +1,4 @@
+安装sublime软件
+找到软件安装位置，找到sublime_text.exe
+打开网站：https://hexed.it/，打开sublime_text.exe 文件
+查找 807805000f94c1 替换为c64005014885c9，保存即可。
