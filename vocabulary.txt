@@ -1,0 +1,28 @@
+attenuation 衰减；变薄；稀释;
+intuitive 直观的
+Wheel bumps (to give the driver a haptic response they are in correct position) 车轮颠簸（给司机一个触觉反应，他们在正确的位置上）。
+Convex mirror 凸面镜
+interoperability 互操作性；互用性;
+constraint 限制; 限定; 约束; 严管;
+Appendix (书、文件的)附录; 阑尾;
+illustrate 说明; 加插图于; 给(书等)做图表; (用示例、图画等)解释; 表明…真实; 显示…存在;
+illustrating 加插图于; 给(书等)做图表; (用示例、图画等)说明，解释; 表明…真实; 显示…存在;
+Deviations 背离; 偏离; 违背; 偏差; （deviation的复数;）
+Scope of this document 文献范围
+Conductive 导电(或热等)的; 能传导(电、热等)的;
+exemptions 免除; 豁免; (指部分收入)免税; （exemption的复数;）
+Normative References 标准参考; 规范性引用文件; 引用标准; 规范性参考文献; 参考标准;
+Abbreviation 缩写; 缩写词; 缩略; 略语;
+Alternating Current 交流电
+Direct Current 直流电
+coupler 连结（配合）者; （电工）耦合器（元件，设备）；可变电感耦合器; 联结器；车钩；联轴节；管接头;
+Retaining/releasing of the coupler 耦合器的保持/释放
+clause (法律文件等的)条款; 子句; 从句; 分句;
+adequate 充足的; 足够的; 合格的; 合乎需要的;
+clearance 清除
+infrastructure 	(国家或机构的)基础设施，基础建设;
+Traction 拖拉; 牵引力; 拉力; 牵引(使体内断骨复位的疗法); (车轮等对地面的)附着摩擦力;
+withstand 承受; 抵住; 顶住; 经受住;
+constraint 限制; 限定; 约束; 严管;
+Insulation resistance 绝缘电阻;
+Annex 附件; 附录; 附属物（品）; 附属建筑;
