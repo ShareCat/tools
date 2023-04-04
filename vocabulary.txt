@@ -116,3 +116,5 @@ impersonate vt. 模仿; 冒充，假冒，假扮; 扮演，饰演; 使人格化;
 countermeasure n. 对策; 对抗手段; 反措施;
 Canonicalization 规范化; 标准化; 正规化;
 derivation n. (尤指词语的)起源，由来，派生;
+derived v. 获得;取得;得到; (使)起源;(使)产生; adj. 导出的；衍生的，派生的;
+cryptographic adj. 密码的;
