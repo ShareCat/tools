@@ -114,3 +114,5 @@ authenticity n. 真实性; 确实性;
 confidentiality n. 保密性; 机密性;
 impersonate vt. 模仿; 冒充，假冒，假扮; 扮演，饰演; 使人格化; 是……的化身; 体现; adj. 具有人格（性）的; 人格化的;
 countermeasure n. 对策; 对抗手段; 反措施;
+Canonicalization 规范化; 标准化; 正规化;
+derivation n. (尤指词语的)起源，由来，派生;
