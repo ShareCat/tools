@@ -1,0 +1,10 @@
+系统：Windows10
+Typora版本：1.5.8
+
+破解方法：在Typora的安装目录下，找到LicenseIndex.180dd4c7.5c394f9a.chunk.js文件
+该文件可以在RESOURCE>PAGE-DIST>STATIC>JS文件夹下找到。
+
+找到文件之后，使用记事本或者其他文本软件打开该文件，找到文件中的e.hasActivated="true"=="e.hasActivated"选项，将其改为e.hasActivated="true"=="true"，随后保存文件。
+
+再次打开Typroa即可发现已经激活成功
+
